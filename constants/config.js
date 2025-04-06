@@ -8,6 +8,6 @@ const corsOptions = {
   credentials: true,
 };
 
-const CHATTU_TOKEN = "chattu-token";
+const CHATTU_TOKEN = "og-token";
 
 export { corsOptions, CHATTU_TOKEN };
